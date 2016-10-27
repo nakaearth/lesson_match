@@ -14,6 +14,7 @@
 /log/*
 /tmp/*
 /vendor/*
+/coverage/*
 !/log/.keep
 !/tmp/.keep
 

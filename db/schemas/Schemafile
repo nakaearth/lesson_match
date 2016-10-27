@@ -1,1 +1,2 @@
 require 'lessons.schema'
+require 'users.schema'
